@@ -1,0 +1,21 @@
+category,title,description,type,link,duration,format,size
+Documentation,"Directory Optimization API Documentation","Complete technical documentation for our directory optimization API","Technical Guide","/docs/api",,
+Documentation,"Integration Guide","Step-by-step guide for integrating our platform with your systems","Technical Guide","/docs/integration",,
+Documentation,"Platform Features Documentation","Detailed documentation of all platform features and capabilities","Technical Guide","/docs/features",,
+Guides,"Directory Optimization Best Practices","Comprehensive guide to optimizing your business listings","Guide","/guides/best-practices",,
+Guides,"Local SEO Mastery Guide","Advanced strategies for local search optimization","Guide","/guides/local-seo",,
+Guides,"Multi-Location Management Guide","Strategies for managing multiple business locations effectively","Guide","/guides/multi-location",,
+Guides,"Review Management Strategy","Best practices for managing and responding to reviews","Guide","/guides/review-management",,
+Videos,"Platform Walkthrough","Complete video guide to using our platform","Video","/tutorials/platform-walkthrough","45 mins",
+Videos,"Advanced Features Tutorial","Deep dive into advanced optimization features","Video","/tutorials/advanced-features","30 mins",
+Videos,"Analytics Dashboard Tutorial","Learn how to use our analytics dashboard effectively","Video","/tutorials/analytics-dashboard","25 mins",
+Case Studies,"Local Business Success Story","How a small business increased visibility by 300%","Case Study","/case-studies/local-business",,
+Case Studies,"Enterprise Implementation","Large-scale directory optimization for a national brand","Case Study","/case-studies/enterprise",,
+Case Studies,"Multi-Location Success","Managing directories for 50+ locations effectively","Case Study","/case-studies/multi-location",,
+Webinars,"Directory Optimization Masterclass","Expert-led session on advanced optimization techniques","Webinar","/webinars/masterclass","60 mins",
+Webinars,"Local SEO Strategy Workshop","Interactive workshop on building effective local SEO strategies","Webinar","/webinars/local-seo-workshop","90 mins",
+Webinars,"Industry Expert Q&A","Monthly Q&A sessions with industry experts","Webinar","/webinars/expert-qa","45 mins",
+Downloads,"Directory Optimization Checklist","A comprehensive checklist for optimizing your business listings","Download","/downloads/checklist.pdf",,"PDF","2.4 MB"
+Downloads,"Local SEO Strategy Template","Ready-to-use template for planning your local SEO strategy","Download","/downloads/strategy-template.xlsx",,"XLSX","1.8 MB"
+Downloads,"Directory Analytics Dashboard","Custom dashboard template for tracking directory performance","Download","/downloads/analytics-dashboard.xlsx",,"XLSX","3.2 MB"
+Downloads,"Content Optimization Guide","In-depth guide for optimizing your directory content","Download","/downloads/content-guide.pdf",,"PDF","4.1 MB" 
