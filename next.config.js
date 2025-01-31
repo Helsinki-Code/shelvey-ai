@@ -11,8 +11,6 @@ const nextConfig = {
     ],
     domains: ['images.unsplash.com'],
   },
-  basePath: '/shelvey-ai',
-  assetPrefix: '/shelvey-ai/',
 }
 
 module.exports = nextConfig 
